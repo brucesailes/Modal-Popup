@@ -11,14 +11,14 @@ You don't need any specific prerequisites to run this project, as it's a static 
 ### Usage
 
 1. Clone this repository or download the source code:
-  ```bash
+
   git clone https://github.com/brucesailes/modal-popup.git
 
-2. Open the `index.html` file in your web browser.
+3. Open the `index.html` file in your web browser.
 
-3. Click the "Test POPUP" button to trigger the modal popup.
+4. Click the "Test POPUP" button to trigger the modal popup.
 
-4. You can close the modal by clicking the "x" button in the top-right corner or by clicking anywhere outside the modal.
+5. You can close the modal by clicking the "x" button in the top-right corner or by clicking anywhere outside the modal.
 
 ### Customization
 
